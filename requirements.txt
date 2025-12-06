@@ -1,0 +1,8 @@
+modal
+ultralytics~=8.3.232
+opencv-python~=4.10.0
+term-image==0.7.1
+pandas
+scikit-learn
+PyYAML
+matplotlib
